@@ -3,6 +3,8 @@ import SortableList, { SortableItem } from "react-easy-sort";
 import { arrayMoveImmutable } from 'array-move';
 import styles from "./styles.module.css";
 
+import SkeletonLoader from './SkeletonLoader';
+
 import { images } from './Photos'; // Replace with the actual path
 
 export default function Sort() {
@@ -11,6 +13,8 @@ export default function Sort() {
   const onSortEnd = (oldIndex, newIndex) => {
     setItems(arrayMoveImmutable(items, oldIndex, newIndex));
   };
+
+  
 
   return (
     <SortableList
@@ -23,6 +27,9 @@ export default function Sort() {
           <div className="image relative">
             <img src={item.url} alt={item.tag} className="w-full h-48 border border-gray-400" />
             <div className="absolute bottom-0 right-0 bg-white bg-opacity-80 px-2 py-1 text-xs rounded">{item.tag}</div>
+
+
+            
           </div>
         </SortableItem>
       ))}
