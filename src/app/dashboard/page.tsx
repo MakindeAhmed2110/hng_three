@@ -3,10 +3,8 @@
 import React, { useState, useEffect, useCallback} from 'react'
 import ImagePage from '../components/ImagePage';
 import ImageModal from '../components/ImageModal';
-import { useDrag, useDrop} from "react-dnd";
+
 import { images } from '../components/Photos'
-import { render } from "react-dom";
-import Gallery from "react-photo-gallery";
 
 import arrayMove from "array-move";
 import Sort from '../components/sortable'

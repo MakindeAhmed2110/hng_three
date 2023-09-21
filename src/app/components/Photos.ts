@@ -36,17 +36,17 @@ export const images = [
                tag: 'cats',
         
               },
-              { id: 9,
+              { id: 10,
                 url: 'https://media.istockphoto.com/id/1301667498/photo/humpback-whale-playfully-swimming-in-clear-blue-ocean.jpg?s=612x612&w=0&k=20&c=0cLUrqi3pgdxv7iPR_T-s2C1Vx7tUyRhPEtl2sHEDwo=',
                  tag: 'cats',
           
                 },
-                { id: 10,
+                { id: 11,
                   url: 'https://media.istockphoto.com/id/1425750373/photo/monarch-butterfly-on-purple-aster-flowers.jpg?s=612x612&w=0&k=20&c=CjLihCRE12UczGFG3R4v3iO-2AYGVPEJEnsm4CxpzzE=',
                    tag: 'cats',
             
                   },
-                  { id: 11,
+                  { id: 12,
                     url: 'https://media.istockphoto.com/id/1184449355/photo/red-panda-greeting-with-raised-paw.jpg?s=612x612&w=0&k=20&c=JdKq9DsGnAv1yw3Ch9GFFoljqEK0jEiw2QAqXkDTEUk=',
                      tag: 'cats',
               

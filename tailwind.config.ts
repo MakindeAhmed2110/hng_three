@@ -15,6 +15,10 @@ const config: Config = {
       },
       fontFamily: {
         'sans' : 'var(--font-shi)',
+      },
+      colors : {
+        'blue' : '#FFFFDB',
+        'pink' : '#FE7600'
       }
  
     },
