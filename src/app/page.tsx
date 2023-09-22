@@ -55,8 +55,8 @@ export default function Home() {
     <main className="flex min-h-screen m-0 flex-col lg:flex-row lg:justify-between lg:items-center justify-center mt-[5px]">
       
     <div className='lg:w-3/5 w-full text-pink h-auto lg:h-screen bg-blue p-8 lg:p-16 font-sans'>
-      <label className='font-sans text-lg'>Gallery</label>
-      <h3 className='font-bold text-xl lg:text-2xl pt-4 lg:pt-8'>
+      <label className='font-sans text-xl'>Gallery</label>
+      <h3 className='font-bold text-xl lg:text-x3l pt-4 lg:pt-44'>
         Wildlife Images<br /> <span id="word" className='font-thin pt-2 lg:pt-4'></span>
       </h3>
     </div>

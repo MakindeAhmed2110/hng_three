@@ -48,8 +48,52 @@ export const images = [
                   },
                   { id: 12,
                     url: 'https://media.istockphoto.com/id/1184449355/photo/red-panda-greeting-with-raised-paw.jpg?s=612x612&w=0&k=20&c=JdKq9DsGnAv1yw3Ch9GFFoljqEK0jEiw2QAqXkDTEUk=',
-                     tag: 'paw',
+                     tag: 'panda',
               
                     },
+                    { id: 13,
+                      url: 'https://media.istockphoto.com/id/1432494219/photo/closeup-portrait-of-a-sinai-agama-on-the-ground.jpg?s=612x612&w=0&k=20&c=W0JM63wGHHwNbdGAeUakEITadXazDen0MAZg9OfhP10=',
+                       tag: 'agama',
+                
+                      },
+                      { id: 14,
+                        url: 'https://media.istockphoto.com/id/1623360743/photo/mule-deer.webp?b=1&s=170667a&w=0&k=20&c=Grbe7H4VWyf_lZUhmoGqtvwdLex3j7eVedV6ENSkECQ=',
+                         tag: 'deer',
+                  
+                        }, { id: 15,
+                          url: 'https://media.istockphoto.com/id/1381637603/photo/mountain-landscape.webp?b=1&s=170667a&w=0&k=20&c=MBaQEp6lxIWgZV0eFqQ8d2_zDbYuFk5LEFBawDinLhw=',
+                           tag: 'moun',
+                    
+                          },
+                          { id: 17,
+                            url: 'https://images.unsplash.com/photo-1456926631375-92c8ce872def?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFuaW1hbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+                             tag: 'lin',
+                      
+                            },   { id: 18,
+                              url: 'https://images.unsplash.com/photo-1497206365907-f5e630693df0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFuaW1hbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+                               tag: 'man',
+                        
+                              },
+                              { id: 19,
+                                url: 'https://media.istockphoto.com/id/1347086252/photo/common-chimpanzee.webp?b=1&s=170667a&w=0&k=20&c=pgUG5TjMBs91vxQPy0stP4RSrVXxMDrGS37-DAWblng=',
+                                 tag: 'chimpanzee',
+                          
+                                },
+                                { id: 20,
+                                  url: 'https://media.istockphoto.com/id/1499453496/photo/a-hummingbirds-feast-a-macro-photo-of-a-flower.webp?b=1&s=170667a&w=0&k=20&c=wElJTbFMUZSt_ko5MO1E-biXQOUIkX576ChYivrDDs0=',
+                                   tag: 'hum',
+                            
+                                  },
+                                  { id: 21,
+                                    url: 'https://images.unsplash.com/photo-1564166174574-a9666f590437?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdpbGQlMjBhbmltYWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60',
+                                     tag: 'gir',
+                              
+                                    },
+                                    { id: 22,
+                                      url: 'https://images.unsplash.com/photo-1527161153332-99adcc6f2966?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdpbGQlMjBhbmltYWxzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60',
+                                       tag: 'lib',
+                                
+                                      },
 
-  ];
+
+ ];
